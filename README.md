@@ -1,4 +1,4 @@
-- Hi, I’m @Nathan-Matthews
+- Hi, I’m @Nathan-Matthews (the one on the left)
 - I work as a software engineer for Carrier where I tend to focus on the design of security methods for embedded systems. 
 - This includes encryption methods, key management strategies, manufacturing methods for key storage, and cloud solutions using AWS.
 - I have a lot of interest in learning about cryptography and cybersecurity. 
